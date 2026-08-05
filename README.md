@@ -279,6 +279,7 @@
 
 | Resource | Description |
 |--------|----------|
+| [Metadata Remover](https://metadataremover.ai/metadata-viewer) | Inspect image metadata locally in the browser and remove it before sharing |
 | [Google Images](https://images.google.com) | Reverse image search |
 | [Google Lens](https://lens.google.com) | Visual search |
 | [Yandex Images](https://www.yandex.com/images) | Reverse image search |
