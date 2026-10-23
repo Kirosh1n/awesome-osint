@@ -435,6 +435,7 @@
 | [IG-Tools Archive Search](https://ig-tools.lolarchiver.com/keyword_search) | Search archived posts, profiles, usernames, names, bios and links |
 | [@F_FFbot](https://t.me/F_FFbot) | Email search by Instagram username |
 | [Osintgram](https://github.com/Datalux/Osintgram) | OSINT tool for Instagram account analysis |
+| [IGDataHub](https://igdatahub.com/) | Free public profile lookup (followers, following, posts); dated follower readings for tracked accounts |
 
 ### TikTok
 
@@ -444,6 +445,7 @@
 | [TikTok EinzzCookie](https://tiktok.einzzcookie.org) | Activity tracking, profile analysis, metadata extraction |
 | [TT-Tools LOLArchiver](https://tt-tools.lolarchiver.com) | Comment history |
 | [TikTok Timestamp](https://bellingcat.github.io/tiktok-timestamp) | Get TikTok video timestamp |
+| [TKMetrics](https://tkmetrics.com/) | Creator reports for tracked accounts (average views, engagement rate, posting times); public hashtag trends |
 
 ### X (Twitter)
 
@@ -453,6 +455,7 @@
 | [XQuik](https://xquik.com) | Tweet search, user lookup, followers, following, metrics, monitoring |
 | [AnalyzeWords](https://liwc.net/analyzewords/index.php) | Twitter user personality analysis by word usage |
 | [Twitter LOLArchiver](https://twitter.lolarchiver.com) | Username history |
+| [twtData](https://twtdata.com/) | Export followers, following, tweets, lists and Spaces to CSV (paid; free sample CSVs); X trends archive by country |
 
 ### WhatsApp
 
